@@ -2,6 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 
+//Current topic: Functional Components
+
 class Square extends React.Component {
 
   render() {
